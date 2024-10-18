@@ -5,7 +5,7 @@ The attached files have been tested on a laptop running Debian 12.7 (kernel 6.11
 
 After installation install git:  
 ``` 
-sudo apt update & sudo apt install git 
+sudo apt update && sudo apt install git -y
 ```
 after this clone git:
 ```
