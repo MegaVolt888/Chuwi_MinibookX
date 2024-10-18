@@ -12,7 +12,7 @@ after this clone git:
 git clone https://github.com/MegaVolt888/Chuwi_MinibookX.git
 cd Chuwi_MinibookX
 ```
-end run postinstall script:
+run postinstall script:
 ```
 chmod a+x postinstall.sh
 sudo ./postinstall.sh 
