@@ -6,3 +6,5 @@ The attached files have been tested on a laptop running Debian 12.7 (kernel 6.11
 The *angle* application is used to calculate the angle of inclination (angle.c file included to git).
 
 Bash script *int33_my_f.sh* used for accelerometers sensors initialisation and test parameters angle cover notebook.
+
+Fot test run in terminal ```sh watch -n .1 sudo ./int33_my_f.sh ```
