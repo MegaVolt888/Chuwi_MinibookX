@@ -15,7 +15,8 @@ cd Chuwi_MinibookX
 end run postinstall script:
 ```
 chmod a+x postinstall.sh
-sudo ./postinstall.sh ```
+sudo ./postinstall.sh 
+```
 
 The changes will take effect after a system reboot.
 
