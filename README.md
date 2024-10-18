@@ -7,4 +7,4 @@ The *angle* application is used to calculate the angle of inclination (angle.c f
 
 Bash script *int33_my_f.sh* used for accelerometers sensors initialisation and test parameters angle cover notebook.
 
-Fot test run in terminal ```sh watch -n .1 sudo ./int33_my_f.sh ```
+Fot test run in terminal ``` watch -n .1 sudo ./int33_my_f.sh ```
